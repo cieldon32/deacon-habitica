@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "deacon of habitica",
+  "version": "0.0.1",
+  "description": "help us to use habitica",
+  "icons": {
+      "48": "icon-48.png",
+      "128": "icon-128.png"
+  },
+  "browser_action": {
+      "default_icon": {
+          "48": "icon-48.png"
+      },
+      "default_title": "habitica",
+      "default_popup": "popup.html"
+  }
+}
